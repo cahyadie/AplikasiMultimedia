@@ -849,9 +849,9 @@
                     Melindungi akun Anda dari peretasan. Jika satu akun diretas, akun lain tidak ikut terancam.
                     <br>
                 <ul>
-                    <li>**Gunakan Kombinasi Karakter:** Buat kata sandi yang terdiri dari kombinasi huruf besar, huruf
+                    <li>Gunakan Kombinasi Karakter: Buat kata sandi yang terdiri dari kombinasi huruf besar, huruf
                         kecil, angka, dan simbol.</li>
-                    <li>**Panjang Minimal:** Usahakan kata sandi memiliki panjang minimal 12-16 karakter.</li>
+                    <li>Panjang Minimal: Usahakan kata sandi memiliki panjang minimal 12-16 karakter.</li>
                     <li>**Hindari Informasi Pribadi:** Jangan gunakan tanggal lahir, nama hewan peliharaan, nama
                         keluarga, atau informasi pribadi lain yang mudah ditebak.</li>
                     <li>**Gunakan Pengelola Kata Sandi (Password Manager):** Aplikasi seperti LastPass, Bitwarden, atau
